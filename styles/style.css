@@ -158,14 +158,14 @@ header
 /* Call now section */
 .call-now
 {
-    width: auto;
+    width: 1140px;
     height: 300px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
     padding: 0 65px;
-    margin: 130px 230px;
+    margin: 130px auto;
     background:url("../images/watch.png"), linear-gradient(to right, #F15B22, rgba(0, 0, 0, 0.1));
     background-blend-mode: overlay;
     background-repeat: no-repeat;
